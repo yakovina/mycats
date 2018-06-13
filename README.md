@@ -1,2 +1,2 @@
 # mycats
-(mycats)[https://yakovina.github.io/mycats/]
+[preview](https://yakovina.github.io/mycats/)
